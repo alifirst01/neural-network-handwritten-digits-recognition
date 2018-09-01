@@ -1,6 +1,4 @@
 # neural-network-handwritten-digits-recognition
-
-## Description
 3 layered neural network architecture for classification of images of hand written digits 
 
 ### Data
